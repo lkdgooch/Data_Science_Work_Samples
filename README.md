@@ -12,7 +12,7 @@ Online Learning Certificates</code></pre>
 | -------- | -------- | -------- | 
 | Time Series | [Final Project](https://github.com/lkdgooch/work_samples/blob/main/FinalProject.pdf) | Transfer Function Time Series Model with plots made in SAS and R | 
 | Time Series | [Exam](https://github.com/lkdgooch/work_samples/blob/main/TSExam1.pdf) | Time Series Exam sample: created in R-Markdown using LaTex for formulas |
-| Data Mining | [Homework]() | Sample homework assignment created in R-Markdown |
+| Data Mining | [Homework](https://github.com/lkdgooch/work_samples/blob/main/DataMiningHW6.pdf) | Sample homework assignment created in R-Markdown |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
