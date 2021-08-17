@@ -6,7 +6,7 @@ Tableau Makeover Mondays
 Online Learning Certificates</code></pre>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h3 align="left"> 🏫| Stats Projects  </h3> 
+<h3 align="left"> 🏫| MS Statistics and Data Science  </h3> 
 
 | Course | Project | Description | 
 | -------- | -------- | -------- | 
