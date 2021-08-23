@@ -1,8 +1,6 @@
-#### ✨ Welcome to my Work Samples Repository, ❗❗ReadMe:
+#### ✨ Welcome to my Data Science Work Samples Repository, ❗❗ReadMe:
 <pre><code>Scroll Down to view Tables: 
 MS Statistics and Data Science Work Samples
-Azure Labs
-Tableau Makeover Mondays
 Online Learning Certificates</code></pre>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
